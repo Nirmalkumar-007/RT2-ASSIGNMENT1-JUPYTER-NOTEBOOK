@@ -2,7 +2,7 @@
 # Research Track 2 - Jupyter Notebook Assignment 
 
 -  This Assignment is to based on a control of a robot using Jupyter Notebook
--  This assignment is referenced from the previous Research track 1 third assignment [rt 1 third assignment](https://github.com/krishanttharun98/Research-track--1-thrid-assignment.git)
+-  This assignment is referenced from the previous Research track 1 third assignment [rt 1 third assignment](https://github.com/Nirmalkumar-007/RT2-ASSIGNMENT1-JUPYTER-NOTEBOOK.git)
 ---
 ## How does it work
 -  Few files are already from the RT-1 3rd assignment and by separating the modalities from a single code to three different separate codes, we have  
