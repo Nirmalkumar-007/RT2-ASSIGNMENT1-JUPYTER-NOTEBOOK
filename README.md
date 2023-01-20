@@ -23,7 +23,7 @@ The rt2_jupyter_interface.ipynb, for this code we use the jupyter notebook to pl
 
 Step 1 : Open the terminal and go to src of your ROS workspace and run -
 
-<pre><code>git clone https://github.com/krishanttharun98/rt2_assignment.git</code></pre>
+<pre><code>git clone https://github.com/Nirmalkumar-007/RT2-ASSIGNMENT1-JUPYTER-NOTEBOOK.git</code></pre>
 
 Step 2 : Now to build your clonned code run the command -
 
