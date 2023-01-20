@@ -1,11 +1,12 @@
 ---
 # Research Track 2 - Jupyter Notebook Assignment 
 
--  This Assignment is to based on a control of a robot using Jupyter Notebook
--  This assignment is referenced from the previous Research track 1 third assignment [rt 1 third assignment](https://github.com/Nirmalkumar-007/RT2-ASSIGNMENT1-JUPYTER-NOTEBOOK.git)
+-  This Assignment is based on control of robot using the Jupyter Notebook.
+-  This assignment is referenced from the previous Research track 1 third assignment.
+-  The previously submitted assignment can be found in this respository [RT-1, ASSIGNMENT 3](https://github.com/Nirmalkumar-007/RESEARCH-TRACK-ASSIGNMENT-3.git)
 ---
 ## How does it work
--  Few files are already from the RT-1 3rd assignment and by separating the modalities from a single code to three different separate codes, we have  
+-  Few files are already from the RT-1, ASSIGNMENT 3. separating the modalities from a single code to three different separate codes, we have  
     
 1. rt2_assignment2.py
 2. rt2_robot_cpp.cpp
