@@ -8,9 +8,9 @@
 ## How does it work
 -  Few files are already from the RT-1, ASSIGNMENT 3. separating the modalities from a single code to three different separate codes, we have  
     
-    1. rt2_assignment2.py
-    2. rt2_robot_cpp.cpp
-    3. rt2_jupyter_interface.ipynb
+1. rt2_assignment2.py
+2. rt2_robot_cpp.cpp
+3. rt2_jupyter_interface.ipynb
 
 
 - The rt2_Assignment2.py, in this code we have the modalities in which the robot can be operated as per the request of the user from two modalities like manually driving ( take_the_wheel() function ), and another one is like automatic driving such as inserting a goal coordinates for the robot to move ( ui() function ).
