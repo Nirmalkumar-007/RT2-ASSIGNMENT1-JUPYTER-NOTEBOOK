@@ -8,16 +8,16 @@
 ## How does it work
 -  Few files are already from the RT-1, ASSIGNMENT 3. separating the modalities from a single code to three different separate codes, we have  
     
-1. rt2_assignment2.py
-2. rt2_robot_cpp.cpp
-3. rt2_jupyter_interface.ipynb
+    1. rt2_assignment2.py
+    2. rt2_robot_cpp.cpp
+    3. rt2_jupyter_interface.ipynb
 
 
-The rt2_Assignment2.py, in this code we have the modalities in which the robot can be operated as per the request of the user from two modalities like manually driving ( take_the_wheel() function ), and another one is like automatic driving such as inserting a goal coordinates for the robot to move ( ui() function ).
+- The rt2_Assignment2.py, in this code we have the modalities in which the robot can be operated as per the request of the user from two modalities like manually driving ( take_the_wheel() function ), and another one is like automatic driving such as inserting a goal coordinates for the robot to move ( ui() function ).
 
-The rt2_robot_cpp.cpp code it simulated only the generic logic of how the robot should move to a given goal or location. Three publishers and subscribers are used to for updating the goal position, its coordinates through a laser scanner data which helps the robot to stop if there is a wall in its path. 
+- The rt2_robot_cpp.cpp code it simulated only the generic logic of how the robot should move to a given goal or location. Three publishers and subscribers are used to for updating the goal position, its coordinates through a laser scanner data which helps the robot to stop if there is a wall in its path. 
 
-The rt2_jupyter_interface.ipynb, for this code we use the jupyter notebook to plot the functionalities and position of the robot, laser scanner data and visualize the data. 
+- The rt2_jupyter_interface.ipynb, for this code we use the jupyter notebook to plot the functionalities and position of the robot, laser scanner data and visualize the data. 
 
 ---
 ## How to run the code 
